@@ -13,6 +13,8 @@ export default function Contact () {
                 <textarea name="message"  rows="10" className='bg-[#ccd6f6] p-2' placeholder='Message'></textarea>
                 <button className='text-white border-2 hover:bg-blue-500 hover:border-600 px-4 py-3 my-8 mx-auto flex items-center'>Let's Connect!</button>
             </form>
+
+            
         </div>
     )
 }
