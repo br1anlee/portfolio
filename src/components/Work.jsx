@@ -1,4 +1,7 @@
-import Puppy from '../assets/puppy.jpeg'
+import DevelUp from '../assets/develup.png'
+import Valowiki from '../assets/valowiki.png'
+import Meme from '../assets/meme.png'
+import Bytez from '../assets/bytez.png'
 export default function Work() {
     return(
         <div className='w-full md:h-screen text-gray-300 bg-[#0a192f]' name='work'>
@@ -11,7 +14,7 @@ export default function Work() {
                 <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
 
                     {/* Grid item 1 */}
-                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Puppy})`}}>
+                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${DevelUp})`}}>
 
                         {/* Hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
@@ -31,7 +34,7 @@ export default function Work() {
                     </div>
 
                     {/* Grid item 2 */}
-                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Puppy})`}}>
+                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Bytez})`}}>
 
                         {/* Hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
@@ -51,7 +54,7 @@ export default function Work() {
                     </div>
 
                     {/* Grid item 3 */}
-                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Puppy})`}}>
+                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Valowiki})`}}>
 
                         {/* Hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
@@ -71,7 +74,7 @@ export default function Work() {
                     </div>
 
                        {/* Grid item 3 */}
-                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Puppy})`}}>
+                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Meme})`}}>
 
                         {/* Hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
