@@ -67,6 +67,9 @@ export default function Navbar() {
         <li className='py-6 text-4xl'><Link onClick={handleClick} to="contact" smooth={true} duration={500}>
               Contact
             </Link></li>
+        <li className='py-6 text-4xl'>
+            <a href="Brian-Lee-Resume.pdf" target="_blank">Resume</a>
+        </li>
       </ul>
     </div>
   );
