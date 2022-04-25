@@ -39,6 +39,10 @@ export default function Navbar() {
               Contact
             </Link>
           </li>
+
+          <li>
+            <a href="Brian-Lee-Resume.pdf" target="_blank">Resume</a>
+          </li>
         </ul>
 
       {/* Hamburger */}
