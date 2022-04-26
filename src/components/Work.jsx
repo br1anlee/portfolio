@@ -62,7 +62,7 @@ export default function Work() {
                                 ValoWIKI
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://br1anlee.github.io/Simon-Meme-Game/" target="_blank">
+                                <a href="https://simon-meme.netlify.app/" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
 
@@ -73,16 +73,16 @@ export default function Work() {
                         </div>
                     </div>
 
-                       {/* Grid item 3 */}
+                       {/* Grid item 4 */}
                     <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Meme})`}}>
 
                         {/* Hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Simon Meme Game
+                                ValoWIKI
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://br1anlee.github.io/Simon-Meme-Game/" target="_blank">
+                                <a href="https://valowiki.herokuapp.com/" target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
 
