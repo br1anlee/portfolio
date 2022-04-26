@@ -54,7 +54,7 @@ export default function Work() {
                     </div>
 
                     {/* Grid item 3 */}
-                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Valowiki})`}}>
+                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Meme})`}}>
 
                         {/* Hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
@@ -74,7 +74,7 @@ export default function Work() {
                     </div>
 
                        {/* Grid item 4 */}
-                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Meme})`}}>
+                    <div className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div' style={{backgroundImage: `url(${Valowiki})`}}>
 
                         {/* Hover effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
