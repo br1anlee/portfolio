@@ -1,6 +1,6 @@
 export default function Contact () {
     return (
-        <div className='w-full h-screen bg-[#0a192f] flex justify-center items-center p-4' name='contact'>
+        <div className='w-full h-800 bg-[#0a192f] flex justify-center items-center p-4' name='contact'>
             <form method='POST' action="https://getform.io/f/46fd1815-1753-4a8f-a78c-faedddbc64a6" className='flex flex-col max-w-[600px] w-full'>
                 <div className='pb-8'>
                     <p className='text-4xl font-bold inline border-b-4 border-600 text-gray-300'>
