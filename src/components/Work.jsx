@@ -1,6 +1,6 @@
 import DevelUp from "../assets/develup.png";
 import Valowiki from "../assets/valowiki.png";
-import Meme from "../assets/meme.png";
+import Simon from "../assets/simon.png";
 import Bytez from "../assets/bytez.png";
 export default function Work() {
   return (
@@ -98,12 +98,12 @@ export default function Work() {
           {/* Grid item 3 */}
           <div
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
-            style={{ backgroundImage: `url(${Meme})` }}
+            style={{ backgroundImage: `url(${Simon})`}}
           >
             {/* Hover effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Simon Meme Game
+                Simon Says Game
               </span>
               <div className="pt-8 text-center">
                 <a href="https://simon-meme.netlify.app/" target="_blank">
